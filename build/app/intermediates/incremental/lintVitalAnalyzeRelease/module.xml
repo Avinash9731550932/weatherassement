@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="C:\weatherapp\android\app"
+    dir="C:\cubit_weatherapp-main\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.1.2"
-    buildFolder="C:\weatherapp\build\app"
+    buildFolder="C:\cubit_weatherapp-main\build\app"
     bootClassPath="C:\Users\Avinash Rai\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\Avinash Rai\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-33">

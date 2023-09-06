@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\weatherapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\cubit_weatherapp-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\weatherapp\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\cubit_weatherapp-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

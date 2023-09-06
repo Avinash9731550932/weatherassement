@@ -1,4 +1,4 @@
-#Tue Sep 05 18:00:34 IST 2023
-base.0=C\:\\weatherapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+#Wed Sep 06 10:24:29 IST 2023
+base.0=C\:\\cubit_weatherapp-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
